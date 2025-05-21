@@ -3,11 +3,12 @@ This is a collaborative worldbuilding project intended to be used as a campaign 
 
 ## Vault Structure
 This is for the overall structure of the vault (still in limbo, proposed layout):
- - Maps (folder): contains the various maps
+ - World
 	 - Worldmap (file, no template): Contains the larger worldmap and geography via leaflet, has points on map for countries, big cities, and large geographic regions.
 	 - Countries & Regions (folder for each major feature)
-		 - Country Map (file, country template)
-		 - 
+		 - Country Map (file, country template): link to the groups counterpart
+ - Groups
+	 - 
 
 ## Plugins and Themes
 __Theme__: ITS
@@ -18,3 +19,4 @@ Plugin list:
  - Dataview (for lists and automated links)
  - Leaflet (for maps and map links)
  - TBD timeline app (for timelines)
+ - Dice Roller (for rollable tables)
