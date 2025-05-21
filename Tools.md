@@ -107,7 +107,6 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://dinosaurpictures.org/ancient-earth - Ancient Earth
  - 
 ## Town / City Maps
-### Editors
 ### Generators
  - https://everweird.app/conjure/town/ - integrates with watabou.itch.io
  - https://eigengrausgenerator.com/ - perhaps most detailed town generators
@@ -128,6 +127,8 @@ This file is meant to be used for guides, generators, naming tools, and any othe
 ## Tokens / Other
  - https://2minutetabletop.com/new-token-editor/
  - https://www.mapeffects.co/
+ - https://rpgmapsforge.com/products/complete-bundle
+ - https://mythical.ink/deck-of-dungeons
 
 ---
 # Items
@@ -146,4 +147,6 @@ This file is meant to be used for guides, generators, naming tools, and any othe
 # Random & Software 
 - http://redkatart.com/dnd5tools/ - treasure, random website
 - https://www.rptools.net/toolbox/ - few java software tools, a bit outdated, free
-- 
+# Blogs
+ - https://richiebilling.com/
+ - 
