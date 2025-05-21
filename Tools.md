@@ -1,9 +1,9 @@
-This file is meant to be used for guides, generators, naming tools, and any other tools that might be useful when worldbuilding.
+This file is meant to be used for guides, generators, naming tools, and any other tools that might be useful when worldbuilding. // TODO: Compile Collections, get prices
 # Collections // TODO: Compile
  - http://chaoticshiny.com/ (I know it doesn't support HTTPS)
- - https://www.dnd-compendium.com/home - compendium of more dnd tools
- - https://donjon.bin.sh/ - Generators, lists, etc
- - https://5e.tools/ - big wiki, item list, etc (load prerelease content for full version)
+ - https://www.dnd-compendium.com/home - compendium of more D&D tools
+ - https://donjon.bin.sh/ - Generators, lists, etc..
+ - https://5e.tools/ - big wiki, item list, etc.. (load prerelease content for full version)
  - https://www.dndspeak.com/ - various generators & D100s
  - https://www.kassoon.com/dnd/ - so many things
  - https://dm.tools/ - counterpart to 5e tools, more general tools less focused on content.
@@ -47,7 +47,7 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://tetra-cube.com/dnd/dnd-statblock.html
 ## NPC Generators / Cards / Questions / Tools 
  - https://tetra-cube.com/dnd/dnd-char-gen.html
- - https://lastgaspgrimoire.com/generators/npc-birthing-sacs/ - Wierd / Wacky
+ - https://lastgaspgrimoire.com/generators/npc-birthing-sacs/ - Weird / Wacky
  - https://safereddit.com/r/DnDBehindTheScreen/comments/3hreqt/memorable_mooks_and_minions/ - Flavor
  - 
 
@@ -55,18 +55,43 @@ This file is meant to be used for guides, generators, naming tools, and any othe
 # Maps
 ## Battle Maps
 ### Editors
+ - https://dungeonmapdoodler.com/draw/
  - https://davesmapper.com/ - IDK how this one works
+ - https://www.dungeonscrawl.com/ - Major one 
+ - https://www.dungeonfog.com/ - another major one 
+ - https://www.mapforge-software.com/ - Free software
+ - https://deepnight.net/tools/rpg-map/ - Pixelart style
+ - https://www.mipui.net/app/
+ - https://hobbyte.net/store - Isometric, really cool looking, but paid
+ - https://dungeondraft.net/ - from makers of wonderdraft, paid but really good
+ - https://arkenforge.com/product/arkenforge-toolkit/ - Animated maps, paid
+ - https://pixelforest.itch.io/flowscape - 3D, $10
+ - https://dldev.itch.io/wildshape - 3D. $40
 ### Generators
  - https://dungen.app/dungen/
  - https://donjon.bin.sh/fantasy/dungeon/
  - https://watabou.itch.io/one-page-dungeon
  - https://therustybattleaxe.blogspot.com/p/megadungeon-links-ii-maps-tables.html
  - //TODO: compile https://therustybattleaxe.blogspot.com/p/megadungeon-links-ii-maps-tables.html
+ - http://dungeon-generator.fantasy-calendar.com/ - Honestly pretty cool, both gen and editor
+ - **https://watabou.itch.io/one-page-dungeon - One of the best ones**
+ - https://www.gozzys.com/ - great map generators (cave, dungeon, wilderness)
 ### Collections
+ - https://www.gozzys.com/ also has premade maps 
+ - https://dysonlogos.blog/maps/
+ - https://www.davidrumsey.com/ -SO MANY!
+ - **https://feedthemultiverse.com/ - Battlemaps & World Maps, Reddit indexed**
 ## World Maps
 ### Editors
+ - https://dungeonmapdoodler.com/draw/
+ - https://hextml.playest.net/#&sub=0 - Good for dm resources, but doesn't look that good
+ - https://inkarnate.com/
+ - https://www.wonderdraft.net/
+ - https://www.otherworldmapper.com/gallery.html - $32 / $55 
+ - https://www.redblobgames.com/maps/mapgen4/ - online small hightmap generator 
 ### Generators
 ### Collections
+ - https://www.davidrumsey.com/ SO MANY
 ## Town / City Maps
 ### Editors
 ### Generators
@@ -75,10 +100,14 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://thecoppersanctum.github.io/thecoppersanctum/taverns.html - Tavern gen 
  - https://www.herebetaverns.com/tavern-generator - another tavern gen w/ map
  - http://www.ancientfortresses.org/medieval-occupations.htm - Ocupation lists
+ - https://watabou.itch.io/medieval-fantasy-city-generator - Watabou Citygen
+ - https://inkwellideas.com/free-tools/random-city-map-generator/ - Don't reccomend it
+ - https://oskarstalberg.com/game/CityGenerator/ - Interesting click-based generator 
+ - https://inkwellideas.com/free-tools/random-inn-generator-floorplan/ inn generator 
+ - 
 ### Collections 
-
+ - https://www.davidrumsey.com/ - SO MANY
 ## Map Collections
- - https://feedthemultiverse.com/ - Battlemaps & World Maps
  - https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit
  - 
 ## World Map Editors
