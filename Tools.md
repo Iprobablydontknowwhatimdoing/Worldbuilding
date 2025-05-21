@@ -8,6 +8,9 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://www.kassoon.com/dnd/ - so many things
  - https://dm.tools/ - counterpart to 5e tools, more general tools less focused on content.
  - ***https://dice.run/: BEST DICE ROLLER***
+ - https://wesschneider.tumblr.com/post/126795575456/last-update-81515-over-100-gm-tips-and
+ - https://thievesguild.cc/
+ - https://watabou.itch.io/
 
 # Guides
 
@@ -67,6 +70,7 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://arkenforge.com/product/arkenforge-toolkit/ - Animated maps, paid
  - https://pixelforest.itch.io/flowscape - 3D, $10
  - https://dldev.itch.io/wildshape - 3D. $40
+ - https://www.dungeonalchemist.com/ - 3D, comes with battlemaps on steam
 ### Generators
  - https://dungen.app/dungen/
  - https://donjon.bin.sh/fantasy/dungeon/
@@ -77,10 +81,14 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - **https://watabou.itch.io/one-page-dungeon - One of the best ones**
  - https://www.gozzys.com/ - great map generators (cave, dungeon, wilderness)
 ### Collections
+ - **https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit**
  - https://www.gozzys.com/ also has premade maps 
  - https://dysonlogos.blog/maps/
  - https://www.davidrumsey.com/ -SO MANY!
- - **https://feedthemultiverse.com/ - Battlemaps & World Maps, Reddit indexed**
+ - https://feedthemultiverse.com/ - Battlemaps & World Maps, indexed
+ - https://imgur.com/a/czepekus-year-of-battlemaps-7Ocx1Ul a few good ones 
+ - https://2minutetabletop.com/
+ - https://www.deviantart.com/cartography-guild/gallery/24517984/tactical - Cart. Guild
 ## World Maps
 ### Editors
  - https://dungeonmapdoodler.com/draw/
@@ -88,10 +96,16 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://inkarnate.com/
  - https://www.wonderdraft.net/
  - https://www.otherworldmapper.com/gallery.html - $32 / $55 
- - https://www.redblobgames.com/maps/mapgen4/ - online small hightmap generator 
+ - https://www.redblobgames.com/maps/mapgen4/ - online small heightmap generator 
+ - [Canvas of Kings](https://store.steampowered.com/app/2498570/Canvas_of_Kings/)
 ### Generators
+ - https://azgaar.github.io/Fantasy-Map-Generator/
+ - https://store.steampowered.com/app/1892520/Rock_3/
+ - https://orbcrafter.com/
 ### Collections
  - https://www.davidrumsey.com/ SO MANY
+ - https://dinosaurpictures.org/ancient-earth - Ancient Earth
+ - 
 ## Town / City Maps
 ### Editors
 ### Generators
@@ -99,31 +113,21 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://eigengrausgenerator.com/ - perhaps most detailed town generators
  - https://thecoppersanctum.github.io/thecoppersanctum/taverns.html - Tavern gen 
  - https://www.herebetaverns.com/tavern-generator - another tavern gen w/ map
- - http://www.ancientfortresses.org/medieval-occupations.htm - Ocupation lists
+ - http://www.ancientfortresses.org/medieval-occupations.htm - Occupation lists
  - https://watabou.itch.io/medieval-fantasy-city-generator - Watabou Citygen
- - https://inkwellideas.com/free-tools/random-city-map-generator/ - Don't reccomend it
+ - https://inkwellideas.com/free-tools/random-city-map-generator/ - Don't recommend it
  - https://oskarstalberg.com/game/CityGenerator/ - Interesting click-based generator 
  - https://inkwellideas.com/free-tools/random-inn-generator-floorplan/ inn generator 
- - 
 ### Collections 
  - https://www.davidrumsey.com/ - SO MANY
-## Map Collections
- - https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit
- - 
-## World Map Editors
- - [Canvas of Kings](https://store.steampowered.com/app/2498570/Canvas_of_Kings/)
-
-## Battlemap Editors
-## Map Ideas / Concepts / Rules / Creators
+ - https://safereddit.com/r/history/comments/61fdp6/heres_a_collection_of_over_360_historical_city/ - 300+ historical city maps
+ - https://www.deviantart.com/cartography-guild/gallery/24517984/tactical cart guild
+## Blogs
  - https://worldbuilding.stackexchange.com/questions/19815/how-do-i-create-realistic-geography - Accurate Geology
  - https://worldbuildingpasta.blogspot.com/p/blog-page.html - More Geologically accurate, see _An Apple Pie from Scratch_ series
-
-## World Map Generators
- - https://azgaar.github.io/Fantasy-Map-Generator/
-## Battlemap Generators
- - https://watabou.itch.io/one-page-dungeon
-
-
+## Tokens / Other
+ - https://2minutetabletop.com/new-token-editor/
+ - https://www.mapeffects.co/
 
 ---
 # Items
