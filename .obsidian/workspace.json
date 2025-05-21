@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "522d95ef3a42024b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e891afb90404add",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "README"
             }
           }
         ]
@@ -182,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8e891afb90404add",
+  "active": "fc8aec4b5f13f0d5",
   "lastOpenFiles": [
+    "_templates/Country Template.md",
+    "README.md",
+    "_templates",
     "Welcome.md",
     "ghdata/nwg-piotr-nwg-wrapper.md",
     "ghdata/nwg-piotr-nwg-bar.md",
@@ -221,8 +212,6 @@
     "ghdata/Ibit-to-google-unlocked.md",
     "ghdata/xyou365-AutoRclone.md",
     "ghdata/jinayang15-ticktick.md",
-    "ghdata/GermainZ-xdg-desktop-portal-termfilechooser.md",
-    "ghdata/rchaput-xdg-prefs.md",
     "ghdata"
   ]
 }
