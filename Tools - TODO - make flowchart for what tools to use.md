@@ -1,4 +1,5 @@
 This file is meant to be used for guides, generators, naming tools, and any other tools that might be useful when worldbuilding. // TODO: Compile Collections, get prices
+https://yulin-w.github.io/making-history-sandbox/
 # Collections // TODO: Compile
  - http://chaoticshiny.com/ (I know it doesn't support HTTPS)
  - https://www.dnd-compendium.com/home - compendium of more D&D tools
@@ -39,10 +40,13 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://adventurerscodex.com/
  - 
 ## Monster Indexes / Encounter Builders
- - https://gamemaster.pixelastic.com/maps/
- - https://encounter-builder.koboldpress.com/
- - https://safereddit.com/r/monsteraday
- - https://tools.goblinist.com/5enc
+ - https://gamemaster.pixelastic.com/ - Monsters Index
+ - https://encounter-builder.koboldpress.com/ - Encounter Builder
+ - https://safereddit.com/r/monsteraday - Monster Index redit
+ - https://tools.goblinist.com/5enc - Encounters?
+ - https://battlesim-zeta.vercel.app/ - Encounter Simulator
+ - https://koboldplus.club/ Encounter Generator / builder 
+ - https://dmdashboard.nl/ - Encounter Tracker Great UI
 
 ## (Index Style) Cards
  - https://crobi.github.io/rpg-cards/
@@ -102,6 +106,15 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://azgaar.github.io/Fantasy-Map-Generator/
  - https://store.steampowered.com/app/1892520/Rock_3/
  - https://orbcrafter.com/
+ - https://forgedmaps.com/
+ - https://freezedriedmangos.github.io/realistic-planet-generation-and-simulation/
+ - https://procgenesis.com/WorldGen/worldgen.html
+ - https://planetside.co.uk/ - WAY OVERKILL
+ - https://www.ignishot.com/grand-designer.html
+ - https://devotegames.itch.io/geographically-accurate-planet-simulator
+ - https://store.steampowered.com/app/1459500/Atlas_Architect/
+ - https://gridmap-playground.vercel.app/
+ - https://www.world-machine.com/
 ### Collections
  - https://www.davidrumsey.com/ SO MANY
  - https://dinosaurpictures.org/ancient-earth - Ancient Earth
@@ -117,6 +130,8 @@ This file is meant to be used for guides, generators, naming tools, and any othe
  - https://inkwellideas.com/free-tools/random-city-map-generator/ - Don't recommend it
  - https://oskarstalberg.com/game/CityGenerator/ - Interesting click-based generator 
  - https://inkwellideas.com/free-tools/random-inn-generator-floorplan/ inn generator 
+ - https://www.fantasytowngenerator.com/ 
+ - 
 ### Collections 
  - https://www.davidrumsey.com/ - SO MANY
  - https://safereddit.com/r/history/comments/61fdp6/heres_a_collection_of_over_360_historical_city/ - 300+ historical city maps
@@ -124,11 +139,14 @@ This file is meant to be used for guides, generators, naming tools, and any othe
 ## Blogs
  - https://worldbuilding.stackexchange.com/questions/19815/how-do-i-create-realistic-geography - Accurate Geology
  - https://worldbuildingpasta.blogspot.com/p/blog-page.html - More Geologically accurate, see _An Apple Pie from Scratch_ series
+ - https://worldbuilding.meta.stackexchange.com/questions/2594/creating-a-realistic-world-series - Stackexchange Series
 ## Tokens / Other
  - https://2minutetabletop.com/new-token-editor/
  - https://www.mapeffects.co/
  - https://rpgmapsforge.com/products/complete-bundle
  - https://mythical.ink/deck-of-dungeons
+ - https://cartographyassets.com/
+ - https://kmalexander.com/
 
 ---
 # Items
@@ -147,6 +165,13 @@ This file is meant to be used for guides, generators, naming tools, and any othe
 # Random & Software 
 - http://redkatart.com/dnd5tools/ - treasure, random website
 - https://www.rptools.net/toolbox/ - few java software tools, a bit outdated, free
-# Blogs
+# Blogs //TODO: Compile Tools
  - https://richiebilling.com/
- - 
+ - https://richplayingitforward.blogspot.com/
+ - https://slyflourish.com/
+ - https://giffyglyph.com/#applications
+ - https://therustybattleaxe.blogspot.com/
+ - https://rollforfantasy.com/
+# Audio
+ - https://syrinscape.com/
+ - https://tabletopaudio.com/
