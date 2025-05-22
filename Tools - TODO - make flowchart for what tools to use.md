@@ -38,7 +38,6 @@ http://dnd2024.wikidot.com/
 	 - [Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
 
 # Generators
-## Collections
  - https://watabou.itch.io/
  - https://autorolltables.github.io/#
  - https://donjon.bin.sh/
