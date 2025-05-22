@@ -1,5 +1,6 @@
 This file is meant to be used for guides, generators, naming tools, and any other tools that might be useful when worldbuilding. // TODO: Compile Collections, get prices
 https://yulin-w.github.io/making-history-sandbox/
+https://spaceengine.org/
 # Collections // TODO: Compile
  - http://chaoticshiny.com/ (I know it doesn't support HTTPS)
  - https://www.dnd-compendium.com/home - compendium of more D&D tools
@@ -12,6 +13,12 @@ https://yulin-w.github.io/making-history-sandbox/
  - https://wesschneider.tumblr.com/post/126795575456/last-update-81515-over-100-gm-tips-and
  - https://thievesguild.cc/
  - https://watabou.itch.io/
+ - www.masterthedungeon.com
+ - https://www.dungeonmastersvault.com/
+ - Subreddits
+	 - dndnext
+	 - worldbuilding
+ - 
 
 # Guides
 
@@ -75,6 +82,7 @@ https://yulin-w.github.io/making-history-sandbox/
  - https://pixelforest.itch.io/flowscape - 3D, $10
  - https://dldev.itch.io/wildshape - 3D. $40
  - https://www.dungeonalchemist.com/ - 3D, comes with battlemaps on steam
+ - https://rollforfantasy.com/tools/dungeon-creator.php - good based on set tileset
 ### Generators
  - https://dungen.app/dungen/
  - https://donjon.bin.sh/fantasy/dungeon/
@@ -147,6 +155,7 @@ https://yulin-w.github.io/making-history-sandbox/
  - https://mythical.ink/deck-of-dungeons
  - https://cartographyassets.com/
  - https://kmalexander.com/
+ - https://www.caeora.com/
 
 ---
 # Items
@@ -165,13 +174,19 @@ https://yulin-w.github.io/making-history-sandbox/
 # Random & Software 
 - http://redkatart.com/dnd5tools/ - treasure, random website
 - https://www.rptools.net/toolbox/ - few java software tools, a bit outdated, free
-# Blogs //TODO: Compile Tools
+# Blogs/Guides //TODO: Compile Tools
  - https://richiebilling.com/
  - https://richplayingitforward.blogspot.com/
  - https://slyflourish.com/
  - https://giffyglyph.com/#applications
  - https://therustybattleaxe.blogspot.com/
  - https://rollforfantasy.com/
+ - https://buildkingdoms.wordpress.com/
+ - https://www.sfwa.org/2009/08/04/fantasy-worldbuilding-questions/
+ - https://nerdbuilding.com/generator
+ - https://churchillgeo.com/
+ - https://www.roleplayingtips.com/5-room-dungeons/
+ - https://hexedpress.itch.io/
 # Audio
  - https://syrinscape.com/
  - https://tabletopaudio.com/
