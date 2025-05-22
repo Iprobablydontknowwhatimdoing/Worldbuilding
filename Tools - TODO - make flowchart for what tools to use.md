@@ -123,6 +123,7 @@ https://spaceengine.org/
  - https://store.steampowered.com/app/1459500/Atlas_Architect/
  - https://gridmap-playground.vercel.app/
  - https://www.world-machine.com/
+ - https://jandjheydorn.com/nortantis
 ### Collections
  - https://www.davidrumsey.com/ SO MANY
  - https://dinosaurpictures.org/ancient-earth - Ancient Earth
@@ -189,6 +190,10 @@ https://spaceengine.org/
  - https://churchillgeo.com/
  - https://www.roleplayingtips.com/5-room-dungeons/
  - https://hexedpress.itch.io/
+ - https://mathenchant.wordpress.com/2024/10/17/industrious-dice/
+ - https://pendicepaper.com/
+ - https://phd20.com/
+ - https://fractalfoundation.org/
 # Audio
  - https://syrinscape.com/
  - https://tabletopaudio.com/
