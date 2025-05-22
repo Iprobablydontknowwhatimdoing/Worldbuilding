@@ -18,7 +18,7 @@ https://spaceengine.org/
  - Subreddits
 	 - dndnext
 	 - worldbuilding
- - 
+ - https://safereddit.com/r/DnDBehindTheScreen/comments/10y2kki/the_complete_hippo_final_edition/
 
 # Guides
 
@@ -127,7 +127,9 @@ https://spaceengine.org/
  - https://www.davidrumsey.com/ SO MANY
  - https://dinosaurpictures.org/ancient-earth - Ancient Earth
  - 
-## Town / City Maps
+## Town / City Maps / Regionmaps
+### Editors
+ - https://cone.itch.io/hex-kit
 ### Generators
  - https://everweird.app/conjure/town/ - integrates with watabou.itch.io
  - https://eigengrausgenerator.com/ - perhaps most detailed town generators
