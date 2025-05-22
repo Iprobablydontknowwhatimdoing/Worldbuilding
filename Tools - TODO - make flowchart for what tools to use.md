@@ -1,6 +1,12 @@
-This file is meant to be used for guides, generators, naming tools, and any other tools that might be useful when worldbuilding. // TODO: Compile Collections, get prices
+// TODO: Compile Collections, get prices
+don't know what to do with:
 https://yulin-w.github.io/making-history-sandbox/
 https://spaceengine.org/
+https://homebrewery.naturalcrit.com/
+https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit?gid=443281176#gid=443281176
+https://duckduckgo.com/?t=ffab&q=worldbuildingprompts&ia=web
+https://dnd5e.wikidot.com/
+http://dnd2024.wikidot.com/
 # Collections // TODO: Compile
  - http://chaoticshiny.com/ (I know it doesn't support HTTPS)
  - https://www.dnd-compendium.com/home - compendium of more D&D tools
@@ -83,6 +89,7 @@ https://spaceengine.org/
  - https://dldev.itch.io/wildshape - 3D. $40
  - https://www.dungeonalchemist.com/ - 3D, comes with battlemaps on steam
  - https://rollforfantasy.com/tools/dungeon-creator.php - good based on set tileset
+ - https://www.spritefusion.com/
 ### Generators
  - https://dungen.app/dungen/
  - https://donjon.bin.sh/fantasy/dungeon/
@@ -92,6 +99,7 @@ https://spaceengine.org/
  - http://dungeon-generator.fantasy-calendar.com/ - Honestly pretty cool, both gen and editor
  - **https://watabou.itch.io/one-page-dungeon - One of the best ones**
  - https://www.gozzys.com/ - great map generators (cave, dungeon, wilderness)
+ - https://www.mysticwaffle.com/
 ### Collections
  - **https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit**
  - https://www.gozzys.com/ also has premade maps 
@@ -151,6 +159,7 @@ https://spaceengine.org/
  - https://worldbuilding.stackexchange.com/questions/19815/how-do-i-create-realistic-geography - Accurate Geology
  - https://worldbuildingpasta.blogspot.com/p/blog-page.html - More Geologically accurate, see _An Apple Pie from Scratch_ series
  - https://worldbuilding.meta.stackexchange.com/questions/2594/creating-a-realistic-world-series - Stackexchange Series
+ - https://worldbuilding.meta.stackexchange.com/questions/2594/creating-a-realistic-world-series
 ## Tokens / Other
  - https://2minutetabletop.com/new-token-editor/
  - https://www.mapeffects.co/
@@ -193,7 +202,18 @@ https://spaceengine.org/
  - https://mathenchant.wordpress.com/2024/10/17/industrious-dice/
  - https://pendicepaper.com/
  - https://phd20.com/
- - https://fractalfoundation.org/
+ - https://inkwellideas.com/
+ - https://johnarcadian.com/#projects
+ - https://mythcreants.com/
+ - https://rebeccashedd.com/2024/02/16/the-worldbuilders-toolkit-geography-topography/
+ - https://www.madelinejameswrites.com/worldbuilding-resources
+ - https://www.madelinejameswrites.com/worldbuilding-guide
+ - https://nownovel.com/world-building-questions/
+ - https://www.youtube.com/watch?v=X3abr8yAuxk
+ - https://undiscoveredworlds.blogspot.com/
+ - https://nickmcd.me/2020/12/03/clustered-convection-for-simulating-plate-tectonics/
+ - https://drtardigrade.itch.io/worldhistorysim
+ - 
 # Audio
  - https://syrinscape.com/
  - https://tabletopaudio.com/
