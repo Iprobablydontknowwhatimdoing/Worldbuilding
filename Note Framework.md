@@ -1,2 +1,43 @@
 # Note Framework Framework
-I want to start by using the wikipedia editing guidelines
+I want to start by using the [Wikipedia editing guidelines](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Contents). The pages can be organized into a few large section, each of which should have it's own folder: (an exclamation mark indicates a note, otherwise it's a folder) **MOST IMPORTANT RULE: JUST WRITE**
+ - Regions (these are large areas of land, anywhere between towns and countries.)
+	 - Regions inside the region
+	 - Points of Interest
+	 - Operations factions have in the area 
+	 - !Overview:
+		 - Map
+		 - Demographics
+		 - Government
+		 - Description & Images
+		 - Quests
+	 - !Local Customs
+	 - !Other Important Points
+ - Points of Interest 
+	 - NPC's
+		 - !NPC Overview:
+			 - Name & Stats 
+			 - Hooks
+			 - Resources
+			 - Factions part of
+			 - Guide to roleplaying
+			 - Interests & Goals
+	 - !Overview
+		 - Maps
+		 - NPC's
+		 - Images / Description
+		 - Artifacts / Why POI
+	 - History of POI
+ - Events
+	 - !Timeline
+	 - History Pages (page for each event)
+		 - Involved People / Orgs
+		 - Why Happened
+		 - Effects
+		 - Who Knows / Where Recorded
+	 - !Visualization
+
+## Editing Guidelines: Following Wikipedia
+- Capitalize the initial letter (except in rare cases, such as eBay), but otherwise follow [sentence case](https://en.wikipedia.org/wiki/Sentence_case "Sentence case")[[e]](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#cite_note-Sentence_case-5) (Funding of UNESCO projects), not title case (Funding of UNESCO Projects), except where title case would be used in ordinary prose. See [Wikipedia:Naming conventions (capitalization)](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_\(capitalization\) "Wikipedia:Naming conventions (capitalization)").
+- Do not use [articles](https://en.wikipedia.org/wiki/Article_\(grammar\) "Article (grammar)") (_a_, _an_, or _the_) as the first word (Economy of the Second Empire, not The economy of the Second Empire), unless it is an inseparable part of a name (The Hague) or of the title of a work (_A Clockwork Orange_, _The Simpsons_).
+- Normally use [nouns](https://en.wikipedia.org/wiki/Noun "Noun") or [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase "Noun phrase"): Early life, not In early life.[[f]](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#cite_note-6)
+- The final character should not be punctuation unless it is an inseparable part of a name ([Saint-Louis-du-Ha! Ha!](https://en.wikipedia.org/wiki/Saint-Louis-du-Ha!_Ha! "Saint-Louis-du-Ha! Ha!"), _[Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F "Do Androids Dream of Electric Sheep?")_) or an abbreviation ([Inverness City F.C.](https://en.wikipedia.org/wiki/Inverness_City_F.C. "Inverness City F.C.")), or when a closing round bracket or quotation mark is required ([_John Palmer_ (1814 schooner)](https://en.wikipedia.org/wiki/John_Palmer_\(1814_schooner\) "John Palmer (1814 schooner)")).
