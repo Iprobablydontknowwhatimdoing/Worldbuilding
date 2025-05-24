@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Framework.md",
+                "file": "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note Framework"
+              "title": "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars"
             }
           },
           {
@@ -272,16 +272,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e150240324309128",
+  "active": "fc8aec4b5f13f0d5",
   "lastOpenFiles": [
+    "Note Framework.md",
     "z_templates/Regions/CIA Country Template.md",
     "Regions/Untitled.md",
     "TBD framework & posting guidelines.md",
-    "Note Framework.md",
     "z_templates/Geography/Country Template.md",
     "z_templates/Regions",
     "Regions",
-    "Tools - TODO - make flowchart for what tools to use.md",
+    "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars.md",
     "obsidianttrpgtutorials.com.md",
     "README.md",
     "z_templates/Geography",

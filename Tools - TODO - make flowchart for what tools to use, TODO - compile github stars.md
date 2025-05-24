@@ -27,7 +27,6 @@ http://dnd2024.wikidot.com/
  - https://safereddit.com/r/DnDBehindTheScreen/comments/10y2kki/the_complete_hippo_final_edition/
 
 # Guides
-
 ## Obsidian Guides
 
  - [Obsidian TTRPG Guides (for how to use plugins & obsidian, etc. in context of worldbuilding / ttrpgs)](https://obsidianttrpgtutorials.com/)
@@ -37,6 +36,7 @@ http://dnd2024.wikidot.com/
  - [Dataview wiki](https://blacksmithgu.github.io/obsidian-dataview/)
 	 - [Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
 
+
 # Generators
  - https://watabou.itch.io/
  - https://autorolltables.github.io/#
@@ -45,6 +45,11 @@ http://dnd2024.wikidot.com/
  - https://safereddit.com/r/d100/wiki/finished
 
 ---
+# Reference
+ - https://5e.tools/ - Rules and srd quickref, add other content for other books
+ - https://crobi.github.io/dnd5e-quickref/preview/quickref.html - General / tools for ingame, dnd actions, etc
+ - https://crobi.github.io/dnd5e-travel/ - DND travel speeds over different terrains & other dnd travel info
+ - https://zavian.github.io/generator/generate.html - Updated ui for crobi's rpg card generator (rpg-cards.vercel.app)
 # Creatures
 
 ## PC sheets
@@ -64,6 +69,7 @@ http://dnd2024.wikidot.com/
  - https://crobi.github.io/rpg-cards/
  - https://rpg-cards.vercel.app/
  - https://tetra-cube.com/dnd/dnd-statblock.html
+ - https://zavian.github.io/generator/generate.html - Updated ui for crobi's rpg card generator (rpg-cards.vercel.app)
 ## NPC Generators / Cards / Questions / Tools 
  - https://tetra-cube.com/dnd/dnd-char-gen.html
  - https://lastgaspgrimoire.com/generators/npc-birthing-sacs/ - Weird / Wacky
@@ -131,6 +137,8 @@ http://dnd2024.wikidot.com/
  - https://gridmap-playground.vercel.app/
  - https://www.world-machine.com/
  - https://jandjheydorn.com/nortantis
+ - https://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/demo.html
+ - https://quadspinner.com/Download - full on software for continents and below, generates hightmaps too
 ### Collections
  - https://www.davidrumsey.com/ SO MANY
  - https://dinosaurpictures.org/ancient-earth - Ancient Earth
@@ -180,6 +188,7 @@ http://dnd2024.wikidot.com/
  - 
 ## Items Cards 
  - https://tetra-cube.com/dnd/dnd-magic-items.html
+ - https://rpg-cards.vercel.app
 ## Item Generators
  - https://tetra-cube.com/dnd/dnd-magic-items.html
 # Random & Software 
