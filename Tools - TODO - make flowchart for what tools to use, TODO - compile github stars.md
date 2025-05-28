@@ -46,7 +46,7 @@ http://dnd2024.wikidot.com/
 
 ---
 # Reference
- - https://5e.tools/ - Rules and srd quickref, add other content for other books
+ - https://5e.tools/ - Rules and srd quickref, add other content for other books. Has items, spells, creatures, etc index/
  - https://crobi.github.io/dnd5e-quickref/preview/quickref.html - General / tools for ingame, dnd actions, etc
  - https://crobi.github.io/dnd5e-travel/ - DND travel speeds over different terrains & other dnd travel info
  - https://zavian.github.io/generator/generate.html - Updated ui for crobi's rpg card generator (rpg-cards.vercel.app)
@@ -194,7 +194,7 @@ hi
 # Random & Software 
 - http://redkatart.com/dnd5tools/ - treasure, random website
 - https://www.rptools.net/toolbox/ - few java software tools, a bit outdated, free
-# Blogs/Guides //TODO: Compile Tools
+# Blogs/Guides //TODO: Compile
  - https://richiebilling.com/
  - https://richplayingitforward.blogspot.com/
  - https://slyflourish.com/
