@@ -101,15 +101,15 @@ hi
  - https://watabou.itch.io/one-page-dungeon
  - https://therustybattleaxe.blogspot.com/p/megadungeon-links-ii-maps-tables.html
  - //TODO: compile https://therustybattleaxe.blogspot.com/p/megadungeon-links-ii-maps-tables.html
- - http://dungeon-generator.fantasy-calendar.com/ - Honestly pretty cool, both gen and editor
- - **https://watabou.itch.io/one-page-dungeon - One of the best ones**
+ - http://dungeon-generator.fantasy-calendar.com/ - A generator with the ability to cycle through room styles. Only http
+ - **https://watabou.itch.io/one-page-dungeon
  - https://www.gozzys.com/ - great map generators (cave, dungeon, wilderness)
- - https://www.mysticwaffle.com/
+ - https://www.mysticwaffle.com/ -dungeon gen with loot
 ### Collections
  - **https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit**
  - https://www.gozzys.com/ also has premade maps 
  - https://dysonlogos.blog/maps/
- - https://www.davidrumsey.com/ -SO MANY!
+ - **https://www.davidrumsey.com/ - really good resource for historical maps, has a giant collection**
  - https://feedthemultiverse.com/ - Battlemaps & World Maps, indexed
  - https://imgur.com/a/czepekus-year-of-battlemaps-7Ocx1Ul a few good ones 
  - https://2minutetabletop.com/
@@ -156,17 +156,15 @@ hi
  - https://inkwellideas.com/free-tools/random-city-map-generator/ - Don't recommend it
  - https://oskarstalberg.com/game/CityGenerator/ - Interesting click-based generator 
  - https://inkwellideas.com/free-tools/random-inn-generator-floorplan/ inn generator 
- - https://www.fantasytowngenerator.com/ 
+ - https://www.fantasytowngenerator.com/ - really detailed, full plan and individual building view, but limited on size
  - 
 ### Collections 
  - https://www.davidrumsey.com/ - SO MANY
  - https://safereddit.com/r/history/comments/61fdp6/heres_a_collection_of_over_360_historical_city/ - 300+ historical city maps
  - https://www.deviantart.com/cartography-guild/gallery/24517984/tactical cart guild
 ## Blogs
- - https://worldbuilding.stackexchange.com/questions/19815/how-do-i-create-realistic-geography - Accurate Geology
+ - https://worldbuilding.stackexchange.com/questions/19815/how-do-i-create-realistic-geography
  - https://worldbuildingpasta.blogspot.com/p/blog-page.html - More Geologically accurate, see _An Apple Pie from Scratch_ series
- - https://worldbuilding.meta.stackexchange.com/questions/2594/creating-a-realistic-world-series - Stackexchange Series
- - https://worldbuilding.meta.stackexchange.com/questions/2594/creating-a-realistic-world-series
 ## Tokens / Other
  - https://2minutetabletop.com/new-token-editor/
  - https://www.mapeffects.co/

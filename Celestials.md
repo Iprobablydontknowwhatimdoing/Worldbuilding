@@ -1,0 +1,1 @@
+Celestials were the first creatures to exist. Made of power and magic, they are not tied as we are to a physical form when they are born, though as they grow they adopt husks. They
