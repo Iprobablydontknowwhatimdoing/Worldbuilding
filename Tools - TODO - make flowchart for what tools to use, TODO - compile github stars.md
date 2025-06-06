@@ -7,6 +7,7 @@ https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmN
 https://duckduckgo.com/?t=ffab&q=worldbuildingprompts&ia=web
 https://dnd5e.wikidot.com/
 http://dnd2024.wikidot.com/
+https://dmhub.roll20.net/
 # Collections // TODO: Compile
  - http://chaoticshiny.com/ (I know it doesn't support HTTPS)
  - https://www.dnd-compendium.com/home - compendium of more D&D tools
@@ -106,7 +107,7 @@ hi
  - https://www.gozzys.com/ - great map generators (cave, dungeon, wilderness)
  - https://www.mysticwaffle.com/ -dungeon gen with loot
 ### Collections
- - **https://gamemaster.pixelastic.com/maps/ - Giant Collection, Indexed from Reddit**
+ - **https://gamemaster.pixelastic.com/maps/ - Giant Collection of battlemaps, Indexed from Reddit**
  - https://www.gozzys.com/ also has premade maps 
  - https://dysonlogos.blog/maps/
  - **https://www.davidrumsey.com/ - really good resource for historical maps, has a giant collection**
