@@ -43,7 +43,8 @@ https://dmhub.roll20.net/
  - https://autorolltables.github.io/#
  - https://donjon.bin.sh/
  - https://worldspinner.com/
- - https://safereddit.com/r/d100/wiki/finished
+ - https://chaoticshiny.com/ - collection of text based generators, including 'civilization', 'constallation, 'culture mix', 'flag','holiday','language mixer',... Only generates text descriptions, but if you need a good description for a variety of thing, this might be a good place to go
+    -  https://safereddit.com/r/d100/wiki/finished
 
 ---
 # Reference
@@ -76,7 +77,6 @@ https://dmhub.roll20.net/
  - https://lastgaspgrimoire.com/generators/npc-birthing-sacs/ - Weird / Wacky
  - https://safereddit.com/r/DnDBehindTheScreen/comments/3hreqt/memorable_mooks_and_minions/ - Flavor
  - 
-hi
 ---
 # Maps
 ## Battle Maps
