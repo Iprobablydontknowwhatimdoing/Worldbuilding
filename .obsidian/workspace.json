@@ -27,16 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars.md",
+                "file": "Regions/Eyedona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars"
+              "title": "Eyedona"
+            }
+          },
+          {
+            "id": "c4f6244688a1f3ee",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "b0224e07bcf09cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continents/Continent A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continent A"
+            }
+          },
+          {
+            "id": "f127b71dc2258218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peoples/The Junglefolk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Junglefolk"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,14 +261,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0a0cc78bc99c819b",
+  "active": "f127b71dc2258218",
   "lastOpenFiles": [
+    "maxresdefault-5233572.jpg",
+    "Continents/Continent A.md",
+    "Peoples/The Junglefolk.md",
+    "Peoples",
+    "z_templates/Nations/Nation Building Template.md",
+    "z_templates/Regions/CIA Country Template.md",
     "Celestials.md",
+    "z_templates/Nations",
+    "z_templates/Wikipedia Based Templates/Countries",
+    "z_templates/Wikipedia Based Templates",
+    "Regions/Eyedona.md",
+    "Continents",
     "Tools - TODO - make flowchart for what tools to use, TODO - compile github stars.md",
     "README.md",
-    "Regions/Untitled.md",
     "Note Framework.md",
-    "z_templates/Regions/CIA Country Template.md",
     "TBD framework & posting guidelines.md",
     "z_templates/Geography/Country Template.md",
     "z_templates/Regions",
@@ -251,10 +298,6 @@
     "ghdata/emersion-grim.md",
     "ghdata/emersion-slurp.md",
     "ghdata/vinceliuice-Colloid-gtk-theme.md",
-    "ghdata/sayanarijit-wl-clipboard.xplr.md",
-    "ghdata/zen-browser-desktop.md",
-    "ghdata/IronRiders-schnubert.md",
-    "ghdata/alexhulbert-Hyprchroma.md",
     "ghdata"
   ]
 }
