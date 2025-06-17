@@ -21,4 +21,9 @@ The political structure of the tribes is complicated to say the least, as soft p
 	 - To go to fay realm full of jungle, small. Has fay and other humanoids, full of wild. Where god resides
 	 - To come of age, hunts
 	 - to bond to mount
+	 - to become leader
+	 - to succeed squad leader
+	 - to welcome new group
+	 - to say goodbye to dead or dying
+	 - to obtain new pet 
 	 - 
